@@ -29,7 +29,8 @@ function buyItem(element) {
     return 'Number provided greater than number of items in cart.'
   }
   else {
-    user.purchases.push(user.cart[x-1]);
+    user.purchases.push(user.cart[element-1]);
+    user.cart.splice(element-1, 1);
   }
 }
 
