@@ -1,4 +1,4 @@
-# Section 07: Functional Programming
-Solution code for Amazon exercise from lecture 128: Solution: Amazon
+# Section 09: Asynchronous JavaScript
+lecture code on promises from lecture 141: Parallel, Sequence and Race
 
 [JavaScript: The Advanced Concepts by Andrei Neagoie](https://www.udemy.com/course/advanced-javascript-concepts/)
